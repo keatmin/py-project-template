@@ -1,0 +1,12 @@
+# * @global-owner1
+
+# Owns any file in project_name anywhere
+# in the repository
+# project_name/ @local-owner1
+
+# Owns any file in `/docs/` directory in the root of
+# repository and its subdirectory
+# /docs/
+
+# Matches extension
+# .py @py-owner
