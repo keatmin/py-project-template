@@ -1,5 +1,6 @@
 # Project Name
 > Short blurb about what your project does.
+
 [![pre-commit][pre-commit-image]][pre-commit-url]
 [![Build Status][git-image]][git-url]
 
@@ -48,7 +49,7 @@ Checks if the best practices and the right coding style has been used.
 
 <!-- Markdown link & img dfn's -->
 [git-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[git-url]:
+[git-url]: https://github.com/yourname/yourproject
 [pre-commit-image]: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
 [pre-commit-url]: https://github.com/pre-commit/pre-commit
 [wiki]: https://github.com/yourname/yourproject/wiki
