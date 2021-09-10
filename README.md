@@ -1,10 +1,9 @@
 # Project Name
-> Short blurb about what your project does.
+> My personal flavor of Python Project Template inspired by multiple template and my personal flow
 
 [![pre-commit][pre-commit-image]][pre-commit-url]
 [![Build Status][git-image]][git-url]
 
-One to two paragraph statement about your project and what it does.
 
 ### Prerequisites
 - [asdf](https://asdf-vm.com/)
@@ -52,3 +51,6 @@ Checks if the best practices and the right coding style has been used.
 [pre-commit-image]: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
 [pre-commit-url]: https://github.com/pre-commit/pre-commit
 [wiki]: https://github.com/yourname/yourproject/wiki
+
+## Acknowledgement
+[sourcery cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter)
